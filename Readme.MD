@@ -1,1 +1,1 @@
-This is a fresh project
+This is a fresh and clean project
